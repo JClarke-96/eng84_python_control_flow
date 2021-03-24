@@ -8,5 +8,8 @@
 
 ## Loops
 - Used to repeat code
-- For repeats a loop for a specified amount of times
+- For repeats a loop for a specified amount of time
+- Syntax for x in y:
+- While loops repeats a loop until a condition is met
+- Syntax while x > y
 - Break can escape the loop on a specific condition
