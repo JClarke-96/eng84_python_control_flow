@@ -15,5 +15,4 @@ food_bill = {1: {"name": "James", "bill": "£1"},
              3: {"name": "Shah", "bill": "£3"}}
 
 for customer in food_bill.values():
-    print(f"{customer["name"]}'s total is: {customer["bill"]}")
-    print(customer["name"])
+    print(f'{customer["name"]}\'s total is: {customer["bill"]}')

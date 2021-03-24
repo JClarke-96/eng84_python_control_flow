@@ -8,3 +8,5 @@
 
 ## Loops
 - Used to repeat code
+- For repeats a loop for a specified amount of times
+- Break can escape the loop on a specific condition
